@@ -1,0 +1,19 @@
+﻿<xapCache source="D:\Programming Projects\DisasSurvivApp\Bin\Debug\DisasSurvivApp.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="6/10/2011 10:45:05 PM">
+  <file source="D:\Programming Projects\DisasSurvivApp\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/28/2011 12:04:47 PM" />
+  <file source="D:\Programming Projects\DisasSurvivApp\Background.png" archivePath="Background.png" lastWriteTime="3/8/2011 9:22:49 AM" />
+  <file source="D:\Programming Projects\DisasSurvivApp\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="3/8/2011 9:22:49 AM" />
+  <file source="D:\Programming Projects\DisasSurvivApp\obj\Debug\DisasSurvivApp.dll" archivePath="DisasSurvivApp.dll" lastWriteTime="6/10/2011 10:45:01 PM" />
+  <file source="D:\Programming Projects\GpsEmulator\GpsEmulator\GpsEmulatorClient\Bin\Debug\GpsEmulatorClient.dll" archivePath="GpsEmulatorClient.dll" lastWriteTime="2/5/2011 8:03:51 PM" />
+  <file source="D:\Programming Projects\DisasSurvivApp\Bin\Debug\Hammock.WindowsPhone.dll" archivePath="Hammock.WindowsPhone.dll" lastWriteTime="1/16/2011 10:58:04 AM" />
+  <file source="D:\Programming Projects\DisasSurvivApp\Bin\Debug\ICSharpCode.SharpZipLib.WindowsPhone.dll" archivePath="ICSharpCode.SharpZipLib.WindowsPhone.dll" lastWriteTime="1/16/2011 10:58:02 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.0\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="5/3/2011 11:46:16 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.0\Libraries\Silverlight\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="5/3/2011 11:46:18 PM" />
+  <file source="D:\Programming Projects\DisasSurvivApp\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll" archivePath="Newtonsoft.Json.WindowsPhone.dll" lastWriteTime="1/4/2011 1:48:14 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ServiceModel.Syndication.dll" archivePath="System.ServiceModel.Syndication.dll" lastWriteTime="3/9/2011 11:08:16 PM" />
+  <file source="D:\Programming Projects\DisasSurvivApp\Bin\Debug\TweetSharp.Next.WindowsPhone.dll" archivePath="TweetSharp.Next.WindowsPhone.dll" lastWriteTime="1/21/2011 8:33:38 AM" />
+  <file source="D:\Programming Projects\DisasSurvivApp\Bin\Debug\TweetSharp.Next.WindowsPhone.Fluent.dll" archivePath="TweetSharp.Next.WindowsPhone.Fluent.dll" lastWriteTime="1/21/2011 8:33:38 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Xml.Serialization.dll" archivePath="System.Xml.Serialization.dll" lastWriteTime="3/9/2011 11:08:16 PM" />
+  <file source="D:\Programming Projects\DisasSurvivApp\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="4/17/2011 11:01:36 PM" />
+  <file source="D:\Programming Projects\DisasSurvivApp\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="6/5/2011 10:54:36 PM" />
+  <file source="D:\Programming Projects\DisasSurvivApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/28/2011 12:54:14 PM" />
+</xapCache>
